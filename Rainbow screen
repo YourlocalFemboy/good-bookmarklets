@@ -1,0 +1,1 @@
+javascript:function%20a(e)%7Bvar%20n=e.childNodes;for(var%20i%20in%20n)%7Ba(n%5Bi%5D);if(n%5Bi%5D.style)%20n%5Bi%5D.style.backgroundImage=%22url(http://bgreco.net/rainbowbg.gif)%22;%7D%7D;a(document);
