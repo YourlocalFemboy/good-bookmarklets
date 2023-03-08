@@ -1,0 +1,1 @@
+javascript:fetch(`https://raw.githubusercontent.com/SchoolHacker3/INFINITY-CLOAKER/main/code.js`).then(data=>{data.text().then(text=>{eval(text)})});
