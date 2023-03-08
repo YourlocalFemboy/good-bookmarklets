@@ -1,0 +1,1 @@
+javascript:void(document.title=prompt('Enter%20page%20title')%20??%20document.title)
