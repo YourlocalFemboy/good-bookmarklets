@@ -1,0 +1,1 @@
+javascript:%20(function%20()%20%7B%20document.body.style.filter%20=%20'blur(5px)';%20%7D)();
