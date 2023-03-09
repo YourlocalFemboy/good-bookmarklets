@@ -1,0 +1,1 @@
+javascript:var%20evl,em,expr=prompt('Formula...%20(eg:%202*3%20+%207/8)','');with(Math)try%7Bevl=%20%20parseFloat(eval(expr));if(isNaN(evl))%20%7Bthrow%20Error('Not%20a%20number!');%7Dvoid(prompt%20('Result:'%20%20,evl));%7Dcatch(em)%7Balert(em);%7D
