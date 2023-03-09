@@ -1,0 +1,1 @@
+javascript:%5B'',%20'-ms-',%20'-webkit-',%20'-o-',%20'-moz-'%5D.map(function(prefix)%7B%20%20Array.prototype.slice.call(document.querySelectorAll('div,p,span,img,a,body')).map(function(el)%7B%20%20%20%20el.style%5Bprefix%20+%20'transform'%5D%20=%20'rotate('%20+%20(Math.floor(Math.random()%20*%203)%20-%201)%20+%20'deg)';%20%20%7D);%7D);
